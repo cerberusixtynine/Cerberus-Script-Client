@@ -20,4 +20,5 @@ Moderators = {
 	72723531; -- J3XC
 	137085323; -- Lynncol_n
 	244259153; -- spas12kick
+	35196321; -- Kezzera
 }
