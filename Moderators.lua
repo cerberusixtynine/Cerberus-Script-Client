@@ -1,4 +1,4 @@
-local Moderators = {
+Moderators = {
 	348902; -- PR
 	18986213; -- GoSinister
 	37895172; -- Dr_Greedy
