@@ -21,4 +21,5 @@ Moderators = {
 	137085323; -- Lynncol_n
 	244259153; -- spas12kick
 	35196321; -- Kezzera
+	22097597; -- Zurius
 }
