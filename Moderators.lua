@@ -10,7 +10,7 @@ Moderators = {
 	50090134; -- Winbloo
 	65785024; -- Sleepi_Dreams
 	19823479; -- rickje139
-	281844141; -- Phalastine
+	281844141; -- Phalastinie
 	31178662; -- joacoxx3286
 	62467296; -- Eliteaholic
 	47457345; -- evilmedi
@@ -22,4 +22,5 @@ Moderators = {
 	244259153; -- spas12kick
 	35196321; -- Kezzera
 	22097597; -- Zurius
+	63002057; -- Flo0fles
 }
