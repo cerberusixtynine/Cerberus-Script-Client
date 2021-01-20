@@ -23,4 +23,9 @@ Moderators = {
 	35196321; -- Kezzera
 	22097597; -- Zurius
 	63002057; -- Flo0fles
+	428394225; -- arukion_father
+	153097727; -- BuzzHeadGuy
+	141051653; -- MinecraftNC123
+	170749546; -- Pream_Snowflakes
+	234411478; -- VermilionSK
 }
