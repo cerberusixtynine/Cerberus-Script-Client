@@ -28,4 +28,6 @@ Moderators = {
 	141051653; -- MinecraftNC123
 	170749546; -- Pream_Snowflakes
 	234411478; -- VermilionSK
+	385198425; -- Cinemattics
+	50431705; -- Hyorc
 }
