@@ -30,4 +30,6 @@ Moderators = {
 	234411478; -- VermilionSK
 	385198425; -- Cinemattics
 	50431705; -- Hyorc
+	109471570; -- Hottchili
+	114141925; -- GummyBearPH
 }
